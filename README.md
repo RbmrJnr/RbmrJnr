@@ -1,21 +1,24 @@
-<h1 align="center">💻Você está no meu Perfil!💻</h1>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/92236780/181114716-1f8e5e3c-526f-47a1-87a4-60188e59b2ef.gif">
-</div><br>
-<div>
-<h3>Tenho conhecimento em:</h3><br>
-<img width="60" height="60" alt="HTML5" src="https://user-images.githubusercontent.com/92236780/181378199-4d24a6ac-c3db-4c4a-a741-b01aa0f5cb5e.png">&nbsp;
-<img width="60" height="60" src="https://user-images.githubusercontent.com/92236780/181378078-45e1ed57-87c0-43e8-a73d-926dec289f11.png">&nbsp;
-<img width="60" height="60" src="https://user-images.githubusercontent.com/92236780/181378303-78451948-cbde-4297-9144-8fd2ff8405f6.png">&nbsp;
-<img width="60" height="60" src="https://user-images.githubusercontent.com/92236780/181378382-fa2041b4-0358-4359-8e7a-493e93a47fa6.png">
-<img width="60" height="60" src="https://github.com/RbmrJnr/RbmrJnr/assets/92236780/a2dad289-40b8-42dc-9383-5ced02f8778f">
-  <img width="60" height="60" src="https://github.com/RbmrJnr/RbmrJnr/assets/92236780/985e0292-4f86-4b39-93d0-d18fa05d717a">
-</div>
 
-<br><br><br><br><br><br><br><br><br>
-<div align="center">
-<h6>Mídias e Redes Sociais:</h6>
-<a href="https://twitter.com/RbmrJnr"><img widht="48" height="48" src="https://user-images.githubusercontent.com/92236780/181343915-cbee467b-37c3-40bd-8a96-64eca19c5c85.png"></a>&nbsp; &nbsp;
-<a href="https://www.instagram.com/ribamar_jnr/"><img widht="48" height="48" src="https://user-images.githubusercontent.com/92236780/181343908-c025f9b5-a270-4528-85e1-4ddea1de0c61.png"></a>&nbsp; &nbsp;
-<a href="https://www.youtube.com/channel/UCC6Xl-ke8TGejnse9X9sD2g"><img widht="48" height="48" src="https://user-images.githubusercontent.com/92236780/181343918-be0bc92d-14a5-4e94-8c2a-2f31e92beaab.png"></a>
-</div>
+### 💻 Você está no meu Perfil! 👋
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribamar_jnr/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC6Xl-ke8TGejnse9X9sD2g)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RbmrJnr)
+
+![RbmrJnr GitHub stats](https://github-readme-stats.vercel.app/api?username=RbmrJnr&show_icons=true&theme=tokyonight)
+
+## Tecnologias 🤖
+
+<div style="display :inlinr_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</div></br>
+
+"💻 Atualmente cursando Engenharia de Computação | Explorando o universo de hardware e software | Transformando ideias em código e circuitos."
