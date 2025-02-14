@@ -1,7 +1,7 @@
 
 ### 💻 Você está no meu Perfil! 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribamar_jnr/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC6Xl-ke8TGejnse9X9sD2g)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribamar_jnr/)-->
+<!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC6Xl-ke8TGejnse9X9sD2g)-->
 
 ![RbmrJnr GitHub stats](https://github-readme-stats.vercel.app/api?username=RbmrJnr&show_icons=true&theme=tokyonight)
 
